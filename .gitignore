@@ -1,0 +1,8 @@
+.re/
+.worktrees/
+.omc/
+.claude/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
